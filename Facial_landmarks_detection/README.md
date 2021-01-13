@@ -1,1 +1,1 @@
-Detect faciallandmarks using dLib in realtime.
+Detect facial Landmarks using dLib in realtime.
