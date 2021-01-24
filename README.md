@@ -1,2 +1,2 @@
 # Computer_Vision
-My collection for some Computer Vision projects.
+My collection for some Computer Vision projects .
